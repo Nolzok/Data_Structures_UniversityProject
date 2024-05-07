@@ -1,0 +1,13 @@
+﻿  ProjectDataStructuresPart1.cpp
+C:\Users\nikol\source\repos\ProjectDataStructuresPart1\ProjectDataStructuresPart1\ProjectDataStructuresPart1.cpp(40,23): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\nikol\source\repos\ProjectDataStructuresPart1\ProjectDataStructuresPart1\ProjectDataStructuresPart1.cpp(40,32): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\nikol\source\repos\ProjectDataStructuresPart1\ProjectDataStructuresPart1\ProjectDataStructuresPart1.cpp(50,23): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\nikol\source\repos\ProjectDataStructuresPart1\ProjectDataStructuresPart1\ProjectDataStructuresPart1.cpp(50,32): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\nikol\source\repos\ProjectDataStructuresPart1\ProjectDataStructuresPart1\ProjectDataStructuresPart1.cpp(61,19): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\nikol\source\repos\ProjectDataStructuresPart1\ProjectDataStructuresPart1\ProjectDataStructuresPart1.cpp(61,27): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\nikol\source\repos\ProjectDataStructuresPart1\ProjectDataStructuresPart1\ProjectDataStructuresPart1.cpp(62,20): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\nikol\source\repos\ProjectDataStructuresPart1\ProjectDataStructuresPart1\ProjectDataStructuresPart1.cpp(62,29): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\nikol\source\repos\ProjectDataStructuresPart1\ProjectDataStructuresPart1\ProjectDataStructuresPart1.cpp(80,29): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\nikol\source\repos\ProjectDataStructuresPart1\ProjectDataStructuresPart1\ProjectDataStructuresPart1.cpp(81,27): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\nikol\source\repos\ProjectDataStructuresPart1\ProjectDataStructuresPart1\ProjectDataStructuresPart1.cpp(121,52): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  ProjectDataStructuresPart1.vcxproj -> C:\Users\nikol\source\repos\ProjectDataStructuresPart1\x64\Debug\ProjectDataStructuresPart1.exe

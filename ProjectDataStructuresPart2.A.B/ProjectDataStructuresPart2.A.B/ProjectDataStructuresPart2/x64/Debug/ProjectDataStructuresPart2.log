@@ -1,0 +1,4 @@
+﻿  ProjectDataStructuresPart2.cpp
+C:\Users\nikol\source\repos\ProjectDataStructuresPart2\ProjectDataStructuresPart2\ProjectDataStructuresPart2.cpp(81): warning C4717: 'maximum': recursive on all control paths, function will cause runtime stack overflow
+C:\Users\nikol\source\repos\ProjectDataStructuresPart2\ProjectDataStructuresPart2\ProjectDataStructuresPart2.cpp(67): warning C4717: 'minimum': recursive on all control paths, function will cause runtime stack overflow
+  ProjectDataStructuresPart2.vcxproj -> C:\Users\nikol\source\repos\ProjectDataStructuresPart2\x64\Debug\ProjectDataStructuresPart2.exe

@@ -1,0 +1,4 @@
+﻿  DataStructuresPart1.cpp
+C:\Users\Tzox\source\repos\DataStructuresPart1\DataStructuresPart1\DataStructuresPart1.cpp(38,2): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Tzox\source\repos\DataStructuresPart1\DataStructuresPart1\DataStructuresPart1.cpp(239,39): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  DataStructuresPart1.vcxproj -> C:\Users\Tzox\source\repos\DataStructuresPart1\x64\Debug\DataStructuresPart1.exe
